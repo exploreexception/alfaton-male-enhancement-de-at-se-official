@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://exploreexception.github.io/alfaton-male-enhancement-de-at-se-official/sitemap.xml
